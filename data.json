@@ -1,0 +1,118 @@
+{
+  "main": [
+    {
+      "type": "facebook",
+      "nickname": "@nathanf",
+      "followers": "1987",
+      "description": "Followers",
+      "stats": {
+        "type": "up",
+        "value": 12
+      }
+    },
+    {
+      "type": "twitter",
+      "nickname": "@nathanf",
+      "followers": "1044",
+      "description": "Followers",
+      "stats": {
+        "type": "up",
+        "value": 99
+      }
+    },
+    {
+      "type": "instagram",
+      "nickname": "@realnathanf",
+      "followers": "11k",
+      "description": "Followers",
+      "stats": {
+        "type": "up",
+        "value": 1099
+      }
+    },
+    {
+      "type": "youtube",
+      "nickname": "Nathan F.",
+      "followers": "8239",
+      "description": "Subscribers",
+      "stats": {
+        "type": "down",
+        "value": 144
+      }
+    }
+  ],
+  "overview": [
+    {
+      "title": "Page Views",
+      "type": "facebook",
+      "value": "87",
+      "stats": {
+        "type": "up",
+        "value": 3
+      }
+    },
+    {
+      "title": "Likes",
+      "type": "facebook",
+      "value": "52",
+      "stats": {
+        "type": "down",
+        "value": 2
+      }
+    },
+    {
+      "title": "Likes",
+      "type": "instagram",
+      "value": "5462",
+      "stats": {
+        "type": "up",
+        "value": 2257
+      }
+    },
+    {
+      "title": "Profile Views",
+      "type": "instagram",
+      "value": "52k",
+      "stats": {
+        "type": "up",
+        "value": 1375
+      }
+    },
+    {
+      "title": "Retweets",
+      "type": "twitter",
+      "value": "117",
+      "stats": {
+        "type": "up",
+        "value": 303
+      }
+    },
+    {
+      "title": "Likes",
+      "type": "twitter",
+      "value": "507",
+      "stats": {
+        "type": "up",
+        "value": 553
+      }
+    },
+    {
+      "title": "Likes",
+      "type": "youtube",
+      "value": "107",
+      "stats": {
+        "type": "down",
+        "value": 19
+      }
+    },
+    {
+      "title": "Total Views",
+      "type": "youtube",
+      "value": "1407",
+      "stats": {
+        "type": "down",
+        "value": 12
+      }
+    }
+  ]
+}
